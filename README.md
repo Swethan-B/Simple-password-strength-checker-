@@ -1,1 +1,1 @@
-# Simple-password-strength-checker-
+# Simple-password-strength-checker
